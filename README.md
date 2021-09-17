@@ -1,6 +1,4 @@
-# Docker Boilerplate
-
-Containers created in a base of [phpdocker.io](https://phpdocker.io).
+# Docker Boilerplate for Symfony projects
 
   | Services installed in this boilerplate | Installation container |
   |----------------------------------------|------------------------|
