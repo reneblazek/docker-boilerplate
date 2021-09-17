@@ -1,7 +1,5 @@
 # Docker Boilerplate
 
-Made by [Martin Soenen](https://github.com/Pinou10001) & available on [GitHub](https://github.com/Pinou10001/Docker-boilerplate-PHP-FPM-MySQL-Composer-PHPMyAdmin-Nginx-MailHog).
-
 Containers created in a base of [phpdocker.io](https://phpdocker.io).
 
   | Services installed in this boilerplate | Installation container |
